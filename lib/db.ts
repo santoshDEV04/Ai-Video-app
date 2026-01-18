@@ -1,4 +1,3 @@
-import { connector } from './../node_modules/undici-types/connector.d';
 import mongoose from "mongoose";
 
 const MONGODB_URI = process.env.MONGODB_URI!
